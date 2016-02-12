@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">enJoin</string>
+    <string name="welcome_text">Welcome to Rio!</string>
+    <string name="pick_language">Pick your language</string>
+</resources>
